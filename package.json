@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://PhithLoveSandwich.github.io/Thanwat-Portfolio/",
+  "homepage": "https://Natsuda006.github.io/Love-Natsuda-Portfolio/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
